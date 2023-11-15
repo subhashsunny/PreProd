@@ -9,3 +9,5 @@ public class HelloController2 {
 		return "viewpage2";
 	}	
 }
+
+
